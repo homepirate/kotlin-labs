@@ -9,5 +9,5 @@ fun main() {
     val max_ = maxOf(first, second)
 
     val array = IntRange(min_, max_).toList();
-    println(array)
+    println(array.joinToString(", "))
 }
