@@ -4,6 +4,8 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+src/main/kotlin/8-lab/images
+src/main/kotlin/8-lab/images2
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
